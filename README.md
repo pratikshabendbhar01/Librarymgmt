@@ -1,5 +1,17 @@
-Mini Library project -> This is written i java . It allows users to manage books, search for titles, and handle basic library operations.
-Features -> you can add any books , you can search any book weather it's available or not, if you want you can delete any book , you can see list of all books and many more features.
-Simple and beginner-friendly implementation 
-Tech Stack -> Language: Java
-              DSA: Arrays, OOP, Collections 
+
+# 📚 Library Management System
+
+## 📌 Project Description
+This is a full-stack Library Management System that allows users to manage books, issue/return books, and maintain records.
+
+## 🚀 Features
+- User Authentication (Login & Signup)
+- Add, Update, Delete Books
+- Issue and Return Books
+- View all books and users
+- Search functionality
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript / React
+- Backend: Node.js, Express
+- Database: MongoDB / Mysql
